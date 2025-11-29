@@ -1,0 +1,11 @@
+site_name: Guía de Redes
+
+nav:
+  - Inicio: index.md
+  - Introducción: introduccion.md
+  - Conceptos:
+      - Modelo OSI y TCP/IP: conceptos/modelos_osi_tcpip.md
+      - Direccionamiento IP: conceptos/direccionamiento_ip.md
+  - Ejemplos:
+      - Configuraciones básicas: ejemplos/configuraciones_basicas.md
+  - Herramientas: herramientas.md
