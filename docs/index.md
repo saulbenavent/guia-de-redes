@@ -1,21 +1,22 @@
 # Guía de Redes
 
-Bienvenido a la **Guía de Redes**, un sitio web creado con *MkDocs* para ayudarte a comprender los fundamentos del networking de manera clara, práctica y organizada.
+Bienvenido a la *Guía de Redes*, una documentación sencilla que explica los conceptos
+fundamentales de las redes informáticas, incluyendo modelos, direccionamiento,
+configuraciones básicas y herramientas de diagnóstico.
 
-!!! info "¿Qué encontrarás aquí?"
-    Esta guía recopila conceptos esenciales, ejemplos prácticos, herramientas y configuraciones básicas utilizadas en el mundo de las redes informáticas.
-
-## Contenidos
-
-- Introducción a las redes
-- Modelos OSI y TCP/IP
-- Direccionamiento IP y subnetting
-- Configuraciones reales
-- Herramientas esenciales para administrar redes
-
-## Imagen ilustrativa
-![Red de ordenadores](https://upload.wikimedia.org/wikipedia/commons/1/17/Computer_network_diagram.png)
+Esta guía está pensada para estudiantes o personas que quieran aprender los fundamentos
+de las redes.
 
 ---
 
-Explora las secciones del menú para comenzar.
+## Contenido principal
+
+- Conceptos básicos de redes  
+- Direccionamiento IP  
+- Modelos OSI y TCP/IP  
+- Ejemplos reales de configuraciones  
+- Herramientas útiles para diagnosticar redes  
+
+---
+
+> *Utiliza el menú lateral para navegar por cada sección.*
