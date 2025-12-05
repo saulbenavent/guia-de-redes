@@ -26,4 +26,5 @@ entre ellos mediante reglas llamadas *protocolos*.
 - **WAN**: redes extensas (Internet).
 - **WLAN**: redes inalámbricas.
 
-> **Dato:** Internet es una red WAN que conecta millones de redes LAN.
+!!! tip "Dato"
+    Internet es una red WAN que conecta millones de redes LAN.

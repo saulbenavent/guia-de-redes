@@ -9,3 +9,8 @@ nav:
   - Ejemplos:
       - Configuraciones básicas: ejemplos/configuraciones_basicas.md
   - Herramientas: herramientas.md
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition

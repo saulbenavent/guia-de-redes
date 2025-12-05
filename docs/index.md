@@ -19,4 +19,7 @@ de las redes.
 
 ---
 
-> *Utiliza el menú lateral para navegar por cada sección.*
+!!! tip "Consejo"
+    Utiliza el menú lateral para navegar por cada sección.
+
+![Guia de Redes](img/guiaderedes.png)
