@@ -1,5 +1,9 @@
 site_name: Guía de Redes
 
+docs_dir: 'md'
+
+site_dir: 'docs'
+
 nav:
   - Inicio: index.md
   - Introducción: introduccion.md
