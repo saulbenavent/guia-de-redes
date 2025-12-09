@@ -14,7 +14,50 @@ nav:
       - Configuraciones básicas: ejemplos/configuraciones_basicas.md
   - Herramientas: herramientas.md
 
-theme: readthedocs
+theme:
+  name: material
+  highlightjs: true
+
+  palette:
+    - scheme: default
+      primary: grey
+      accent: blue-grey
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: grey
+      accent: blue-grey
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+extra:
+  logo: img/logo.png
+  favicon: img/favicon.png
+
+
+
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
