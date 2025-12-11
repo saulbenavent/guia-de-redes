@@ -15,44 +15,23 @@ nav:
   - Herramientas: herramientas.md
 
 theme:
-  name: material
+  name: readthedocs
   highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
 
-  palette:
-    - scheme: default
-      primary: grey
-      accent: blue-grey
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+  include_homepage_in_sidebar: true
+  prev_next_buttons_location: bottom
+  collapse_navigation: true
+  titles_only: false
+  sticky_navigation: true
+  locale: es
 
-    - scheme: slate
-      primary: grey
-      accent: blue-grey
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-
-  font:
-    text: Inter
-    code: JetBrains Mono
-
-  features:
-    - navigation.instant
-    - navigation.top
-    - navigation.sections
-    - content.code.copy
-    - content.code.select
-    - content.code.annotate
-    - content.tabs.link
-    - content.tooltips
-    - toc.integrate
-    - search.suggest
-    - search.highlight
-
-extra:
   logo: img/logo.png
-  favicon: img/favicon.png
+
+extra_css:
+  - css/extra.css
 
 
 

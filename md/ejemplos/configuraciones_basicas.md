@@ -36,4 +36,4 @@ network:
   version: 2
 ```
 
-Aplicar cambios: sudo netplan apply
+Aplicar cambios: **sudo netplan apply**

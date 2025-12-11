@@ -62,4 +62,5 @@ Escaneo de puertos y redes.
 nmap 192.168.1.0/24
 ```
 
-> Estas herramientas permiten detectar problemas y analizar el estado de cualquier red.
+!!! tip "Consejo"
+    Estas herramientas permiten detectar problemas y analizar el estado de cualquier red.
